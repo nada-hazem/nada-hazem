@@ -40,7 +40,14 @@
 <div>
   <img src="https://img.shields.io/badge/PowerBi-FF5D01.svg?style=for-the-badge&logo=PowerBi&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="50" height="50"/>&nbsp;
-  
+
+  ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nada-hazem&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-hazem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
