@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFjbTlicHUzcXliMGVva3RxcnZqYjNpbW14czZrdHIwNWZ3dHpudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFjbTlicHUzcXliMGVva3RxcnZqYjNpbW14czZrdHIwNWZ3dHpudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="140"/>
 </div>
 <div align='center'>
 <p>
@@ -7,7 +7,7 @@
   <a href="mailto:nadaayoub362@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img src="https://komarev.com/ghpvc/?username=nada-hazem&style=flat-square&color=blue" alt=""/>
-<h1 align="center">Hi 👋, I'm Nada </h1>
+<h1 align="center">Hi there 👋, I'm Nada </h1>
 <h3 align="center">a Computer Science student and Frontend Developer with a growing passion for Data Science.</h3>
 </div>
 
