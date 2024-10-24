@@ -11,13 +11,13 @@
 <h3 align="center">a Computer Science student and Frontend Developer with a growing passion for Data Science.</h3>
 </div>
 
-### :woman_technologist: About Me:
+### :woman_technologist: About Me :
 - :telescope: I’m working as a Frontend Developer 
 
 - :seedling: Exploring Data Science track 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
