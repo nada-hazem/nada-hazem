@@ -7,7 +7,7 @@
   <a href="mailto:nadaayoub362@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img src="https://komarev.com/ghpvc/?username=nada-hazem&style=flat-square&color=blue" alt=""/>
-<h1 align="center">Hi there 👋, I'm Nada </h1>
+<h1 align="center">Hi there , I'm Nada </h1>
 <h3 align="center">a Computer Science student and Frontend Developer with a growing passion for Data Science.</h3>
 </div>
 
